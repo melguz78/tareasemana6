@@ -30,6 +30,7 @@ echo "Prueba";
 <h4>otro codigo</h4>
 
 <h3>Hola</h3>
+<h2>Una feliz tarde</h2>
 </body>
 </html>
   
