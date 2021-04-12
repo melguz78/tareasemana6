@@ -2,14 +2,26 @@
 
 echo "Hola Mundo";
 
-<<<<<<< HEAD
+
 echo "saludos";
-=======
+
 echo "Prueba";
 
-
->>>>>>> a5becdded7eee5741b5fe6dfcffc73d2f9c85bc9
-
 ?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h4>Aqui estoy</h4>
+</body>
+</html>
   
  
