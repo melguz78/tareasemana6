@@ -15,9 +15,10 @@ session_start();
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </head>
   <body>
-
-        <div style="width: 390px; background-color: cyan; "   class="form-group;">
-                        <h4>LOGIN</h4> <br><hr>
+<center>
+        <div style="width: 390px; background-color: cyan;"    class="form-group;">
+        <center> <h4>LOGIN</h4></center>
+                        <br><hr>
                     <form action="usuario.php" method="POST" class="form-control">
 
                     <label for="Usuario ">Usuario</label><br>
@@ -27,6 +28,7 @@ session_start();
                     <input type="submit" value="Enviar" class="btn btn-danger">
                     </form>
         </div>
+        </center>
   </body>
   </html>
  <?php
