@@ -21,10 +21,10 @@ session_start();
                         <br><hr>
                     <form action="usuario.php" method="POST" class="form-control">
 
-                    <label for="Usuario ">Usuario</label><br>
-                    <input type="text" name="Usuario" class="form-control" placeholder="Nombre de usuario"><br><br>
-                    <label for="Contraseña">Contraseña</label><br>
-                    <input type="password" name="Password" class="form-control" placeholder="contraseña"><br><br>
+                    <label>Usuario</label><br>
+                    <input type="text" name="user" class="form-control" placeholder="Nombre de usuario"><br><br>
+                    <label>Contraseña</label><br>
+                    <input type="password" name="password" class="form-control" placeholder="contraseña"><br><br>
                     <input type="submit" value="Enviar" class="btn btn-danger">
                     </form>
         </div>

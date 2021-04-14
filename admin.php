@@ -1,6 +1,6 @@
 <?php
 session_start();
-$nom=$session['txtUsuaario'];
+$nom=$_SESSION['txtUsuario'];
 echo "<h4>Bienvenido : $nom</h4> ";
 ?>
 
@@ -21,5 +21,8 @@ echo "<h4>Bienvenido : $nom</h4> ";
                 <li><a href="#">Enlaces</a></li>
         </ul>
     </nav>
+    
+  <a href="cerrar.php">Cerrar</a>;
+
 </body>
 </html>
