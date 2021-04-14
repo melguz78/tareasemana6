@@ -20,10 +20,9 @@ echo "<h4>Bienvenido:$nom</h4>";
                 <li><a href="#">Actividades</a></li>
                 <li><a href="#">Enlaces</a></li>
                 <li><a href="#">intranet</a></li>
-            
+           
             </ul>
-    
-    
     </nav>
+    <a href="cerrar.php">Cerrar</a>;
 </body>
 </html>
